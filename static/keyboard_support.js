@@ -16,7 +16,7 @@ function click(index) {
 
 document.onkeydown = function(e) {
     const map = {
-        'd': 1, 'f': 2, 'j': 3, 'k': 4
+        '1': 1, '2': 2, '3': 3, '4': 4
     }
     let key = e.key.toLowerCase();
 
